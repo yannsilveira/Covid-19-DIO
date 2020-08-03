@@ -7,6 +7,12 @@ import CanadaFlag from '../../assets/images/canada.png'
 import FranceFlag from '../../assets/images/frança.png'
 import MadagascarFlag from '../../assets/images/madagascar.png'
 import JapanFlag from '../../assets/images/japão.png'
+import AustraliaFlag from '../../assets/images/australia.png'
+import IcelandFlag from '../../assets/images/islândia.png'
+import ParaguayFlag from '../../assets/images/paraguai.png'
+import SingaporeFlag from '../../assets/images/singapura.png'
+import SyriaFlag from '../../assets/images/syria.png'
+import VietnamFlag from '../../assets/images/vietnam.png'
 
 const COUNTRIES = [
   {
@@ -53,6 +59,36 @@ const COUNTRIES = [
     label: 'Japão',
     value: 'japan',
     flag: JapanFlag
+  },
+  {
+    label: 'Australia',
+    value: 'australia',
+    flag: AustraliaFlag
+  },
+  {
+    label: 'Islândia',
+    value: 'Iceland',
+    flag: IcelandFlag
+  },
+  {
+    label: 'Paraguai',
+    value: 'Paraguay',
+    flag: ParaguayFlag
+  },
+  {
+    label: 'Cingapura',
+    value: 'Singapore',
+    flag: SingaporeFlag
+  },
+  {
+    label: 'Síria',
+    value: 'syria',
+    flag: SyriaFlag
+  },
+  {
+    label: 'Vietnã',
+    value: 'Vietnam',
+    flag: VietnamFlag
   },
 ]
 

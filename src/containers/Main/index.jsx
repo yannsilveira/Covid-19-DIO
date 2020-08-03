@@ -37,9 +37,10 @@ function Main() {
         </div>
         <Board data={data} />
         <footer>
-          <h3> Projeto retirado do repositório da DIO e adaptado por Yann</h3>
+          <h3> Projeto retirado do repositório de tautorn para a DIO e adaptado por Yann</h3>
           <p>LinkedIN -> <a href="https://www.linkedin.com/in/yann-silveira/" target="blank">https://www.linkedin.com/in/yann-silveira/</a></p>
           <p>GitHub -> <a href="https://github.com/Yannops" target="blank">https://github.com/Yannops</a></p>
+          <p>Repositório do projeto original -> <a href="https://github.com/Tautorn/covid19-dio" target="blank">https://github.com/Tautorn/covid19-dio</a></p>
         </footer>
       </ContainerStyled>
     </>
